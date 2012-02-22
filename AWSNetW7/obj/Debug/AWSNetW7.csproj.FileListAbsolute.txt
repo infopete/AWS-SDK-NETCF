@@ -1,0 +1,9 @@
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\AWSNetW7.dll
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\AWSNetW7.pdb
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\OpenNETCF.dll
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\OpenNETCF.Configuration.xml
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\bin\Debug\OpenNETCF.xml
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\obj\Debug\AWSNetW7.dll
+C:\Users\Pete\Documents\Visual Studio 2008\Projects\AWSNetW7\AWSNetW7\obj\Debug\AWSNetW7.pdb
